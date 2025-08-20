@@ -1,5 +1,7 @@
-# About Me:
-FullStack Developer<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=35&duration=3000&pause=700&color=40DC5B&center=true&vCenter=true&width=500&height=70&lines=I'm+Yuthmi+Minaanga" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=35&duration=3000&pause=700&color=40DC5B&center=true&vCenter=true&width=500&height=70&lines=Yuthmi+Minaanga" alt="Typing SVG" />
+</div>
 
 
 ## 🌐 Socials:
